@@ -36,7 +36,7 @@ body{
     animation-delay: .3s ;
 }
 .greetings > span:nth-child(4){
-    animation-delay: .7s;
+    animation-delay: .4s;
 }
 .greetings > span:nth-child(5){
     animation-delay: .2s;
